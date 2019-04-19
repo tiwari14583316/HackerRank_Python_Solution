@@ -1,0 +1,1 @@
+This repository contains solutions for Python Questions on HackerRank.
